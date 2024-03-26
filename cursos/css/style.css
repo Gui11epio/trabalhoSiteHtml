@@ -1,0 +1,23 @@
+.titulo{
+    text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    
+}
+
+
+img{
+    
+    width: 774px;
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    text-align: justify;
+    font-style: italic;
+    font-variant: small-caps;    
+}
